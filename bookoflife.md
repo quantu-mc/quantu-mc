@@ -10,7 +10,8 @@
 ## Character Strengths
 1. Curiosity
 2. Honesty
-3. Humour
+3. Humour: 
+4. Perseverance; "I am hardworking and persist towards my goals despite obstacles or discouragements. Sometimes, I must dig deep and muster the will to overcome thoughts of giving up. But, I am rewarded by the pleasure, success, and confidence I receive from completing tasks and accomplishing goals."
 
 ## Hierarchy of Needs
 - Physiological: diet, sleep
