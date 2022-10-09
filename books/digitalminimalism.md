@@ -17,7 +17,7 @@ Modest hacks and tips are not sufficient to curb technology's addictive design a
 
 ## 1. A Lopsided Arms Race
 
-One of the major selling points of the original iPhone was that it integrated the iPod with a cellphone, preventing someone from having to carry around two seperate devices. The way the iPhone has changed how we live since was rapid, unexpected, and unplanned.
+One of the major selling points of the original iPhone was that it integrated the iPod with a cell phone, preventing someone from having to carry around two separate devices. The way the iPhone has changed how we live since was rapid, unexpected, and unplanned.
 
 "We added new technologies to the periphery of our experience for minor reasons, then woke one morning to discover that they had colonised the core of our daily life."
 
@@ -118,7 +118,7 @@ To upgrade your leisure life:
 
 ## 7. Join the Attention Resistance
 
-Facebook, Google, and other services utilise the attention economy; the business sector that makes money gathering consumers' attention, then repackaging and selling it to advertisers. The best way to use these services is in a manner that optimises the value you receive. This isn't just a commonsense adjustment to your digital habits, but a bold act of resistance.
+Facebook, Google, and other services utilise the attention economy; the business sector that makes money gathering consumers' attention, then repackaging and selling it to advertisers. The best way to use these services is in a manner that optimises the value you receive. This isn't just a common sense adjustment to your digital habits, but a bold act of resistance.
 
 To use these services intentionally:
 
@@ -126,8 +126,8 @@ To use these services intentionally:
   
 - Turn your devices into single-purpose computers. The power of a general-purpose computer is in the total number of things it enables the user to do, not the total number of things it enables the user to do simultaneously. Block social media by default and make it available only on an intentional schedule.
 
--  Use social media like a professional. Don't see it as a source of entertainment, follow only a small number of accounts, use Facebook only for close friends, and maintain separate Twitter accounts for seperate interests.
+-  Use social media like a professional. Don't see it as a source of entertainment, follow only a small number of accounts, use Facebook only for close friends, and maintain separate Twitter accounts for separate interests.
   
-- Embrace slow media. In an age in which the digital attention economy is shoveling more and more clickbait toward us and fragmenting our focus into emotionally charged shards, the right response is to become more mindful in our media consumption. Rather than consuming news through a sequence of websites, focus only on high-quality sources. Read opposing sides of an argument and isolate news consumption to set times during the week.
+- Embrace slow media. In an age in which the digital attention economy is shovelling more and more clickbait toward us and fragmenting our focus into emotionally charged shards, the right response is to become more mindful in our media consumption. Rather than consuming news through a sequence of websites, focus only on high-quality sources. Read opposing sides of an argument and isolate news consumption to set times during the week.
  
 - Dumb down your smartphone. Smartphones are the Trojan horse of the attention economy and without them, efforts to reclaim your attention are significantly simplified. Predominantly using a dumb phone, but still keeping your smartphone, allows you to use the latter for specific purposes, such as travel or exercise.
