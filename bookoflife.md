@@ -7,19 +7,19 @@
 4. 🃏 **Humour (Transcendence):** "I recognise what is amusing, look on the lighter side, and like to make people laugh, even in difficult and stressful times. This is the least essential of my character strengths, but it reminds me that not everything enjoyable in life needs to serve a greater purpose."  
 
 ## Hierarchy of Needs
-### Safety
+### Health & Safety
 - [Mental Health](mentalhealth.md)
 - [Physical Health](physicalhealth.md)
-- [Financial Security](finance.md)
+- [Financial Safety](finance.md)
 
 ### Belonging
 - [Language](language.md)
 - [Culture](culture.md)
 
 ### Esteem
-- [Education](education.md)
-- [Leadership](leadership.md)
-- [Mastery](mastery.md)
+- [Technical Skills](technical.md)
+- [People Skills](people.md)
+- [Career Path & Mastery](mastery.md)
 
 ### Self-Actualisation
 - [Travel](travel.md)
@@ -27,19 +27,4 @@
 
 ### Garbage
 
-- Safety: finance, mental health (minimalism and mindfulness), exercise 
-- Belonging: relationships, language/culture
-- Esteem: education, leadership, mastery
 - Self-Actualisation: travel (plan trips from books here), photography (a way to capture moments and travel and one day look back at a life well lived)
-
-Relevant Books:
-1. minimalism: Goodbye, Things
-2. mental health: Digital Minimalism
-3. finance: Psychology of Money
-4. mastery: Mastery
-5. mastery: Your Professional Growth
-6. leadership: Influence
-7. leadership: How to Win Friends
-8. language/culture: Little Orange Book
-9. ?
-10. ?
