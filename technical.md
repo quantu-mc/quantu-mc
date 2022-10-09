@@ -4,5 +4,4 @@
 
 ## Physics
 
-**Books:**
-- Six Easy Pieces by Richard Feynman
+- [Six Easy Pieces](books/sixeasypieces.md) by Richard Feynman
