@@ -1,3 +1,5 @@
+[🔙 to Directory](directory.md)
+
 # Character Strengths
 
 1. 📚 **Curiosity (Wisdom):** "I am interested in exploring new ideas, facts, activities and experiences (including those of other people.) I also have a strong desire to expand my own personal knowledge base and skillset, aiming for mastery. Curiosity is my greatest strength, as it is often my motivation to *persevere* and drives my desire to be open-minded, allowing me to relate to people through *honesty* using *humour*.
