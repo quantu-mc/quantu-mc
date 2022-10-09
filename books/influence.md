@@ -1,6 +1,6 @@
 [🔙 to People Skills](https://github.com/quantu-mc/quantu-mc/blob/main/people.md)
 
-# Influence
+# Weapons of Influence
 
 **Table of Contents:**
 1. [Reciprocation](influence.md#1-reciprocation)
