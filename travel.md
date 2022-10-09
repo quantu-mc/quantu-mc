@@ -2,4 +2,4 @@
 
 ## European Weekends
 
-## Long Journeys
+## International Journeys
