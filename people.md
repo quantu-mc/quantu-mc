@@ -3,6 +3,11 @@
 **Books:**
 - Confidence by Harvard Business Review
 
+## Emotional Intelligence
+
+**Books:**
+- Emotional Intelligence by Daniel Goleman
+
 ## Influence
 
 **Books:**
@@ -13,3 +18,9 @@
 
 **Books:**
 - Your Oxygen Mask First by Kevin Lawrence
+
+## Personality
+
+**Profiles:**
+- DISC Profile
+- Myers-Briggs Profile
