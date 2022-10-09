@@ -1,26 +1,27 @@
-# Directory
+# A Happy & Meaningful Life
 
-Based on Maslow's Hierarchy of Needs.
+## About
 
-## 0. About Me
-- [Character Strengths](bookoflife.md)
+Recognising my [character strengths](bookoflife.md) and allowing them to guide my life results in a sense of happiness and meaning.
 
-These are linked to my values. Allowing them to guide my needs results in a meaningful life.
+## Directory
 
-## 1. Health & Safety
+### 1. Health & Safety
 - 🧠 [Mental Health](mentalhealth.md)
 - 🏋‍♀️ [Physical Health](physicalhealth.md)
 - 💵 [Financial Safety](finance.md)
 
-## 2. Belonging
+### 2. Belonging
 - ✒️ [Language](language.md)
 - ⚜️ [Culture](culture.md)
 
-## 3. Esteem
+### 3. Esteem
 - 🔬 [Technical Skills](technical.md)
 - 👥 [People Skills](people.md)
 - 📈 [Career Path](career.md)
 
-## 4. Self-Actualisation
+### 4. Self-Actualisation
 - 🛩 [Travel](travel.md)
 - 📸 [Photography](photography.md)
+
+*Based on Maslow's Hierarchy of Needs.*
