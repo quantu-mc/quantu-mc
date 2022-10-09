@@ -1,4 +1,4 @@
-[🔙 to People Skills](quantu-mc/people.md)
+[🔙 to People Skills](https://github.com/quantu-mc/quantu-mc/blob/main/people.md)
 
 # How to Win Friends and Influence People
 
