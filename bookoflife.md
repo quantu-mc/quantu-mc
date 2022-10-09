@@ -13,3 +13,25 @@
 
 ## 🃏 Humour
 "I recognise what is amusing, look on the lighter side, and like to make people laugh, even in difficult and stressful times. This is the least essential of my character strengths, but it reminds me that not everything enjoyable in life needs to serve a greater purpose."
+
+# Personality Type
+
+## Advocate (INFJ)
+
+The advocate has introverted, intuitive, feeling and judging personality traits and is the rarest personality type at 2%.
+
+*"Treat people as if they were what they ought to be and you help them to become what they are capable of being."* - Goethe
+
+**Strengths:**
+- **Insightful:** "My intuition gives me the ability to see through the superficial and understand people’s true motivations, feelings, and needs."
+- **Passionate:** "I crave a sense of purpose in life. My job isn’t satisfying if it doesn’t offer a deeper sense of meaning, aligned with my values and goals – no matter how good the salary is."
+- **Altruistic:** "I want to use my strengths for the greater good, and I rarely lose sight of how my words and actions might affect others. I prefer to use them to build trust and confidence, which allows me to inspire and persuade people towards a common goal."
+
+**Weaknesses:**
+- **Sensitive:** "I am not averse to feedback, but I get defensive if someone is challenging my most cherished values and beliefs."
+- **Reserved:** "I value honesty and authenticity, but am a private person. As a result, I avoid shallow and superficial friendships. Instead, I crave authentic, meaningful relationships." 
+- **Perfectionistic:** "I expect myself and my direct reports to be accurate, motivated and honest. I prefer not to micromanage them, but to empower them to think and act independently in order to create an atmosphere of mutual respect."
+
+## Stable (SC)
+
+Always reflective, but halfway between task-focused (accuracy) and people-focused (support).
