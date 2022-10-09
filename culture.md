@@ -1,4 +1,4 @@
-## Naar Nederland
+## About the Netherlands
 
 - Geography and Living
 - History
@@ -9,8 +9,8 @@
 - Work & Income
 - Public Holidays
 
-*Based off the course material of [Naar Nederland](https://www.naarnederland.nl/en/coursematerial).*
+*Based on the course material of [Naar Nederland](https://www.naarnederland.nl/en/coursematerial).*
 
-## Weetjes van Nederland
+## Culture in the Netherlands
 
-*Based off [Stuff Dutch People Like](https://stuffdutchpeoplelike.com/complete-list/) and De Wortels van Oranje.*
+*Based on [Stuff Dutch People Like](https://stuffdutchpeoplelike.com/complete-list/) and De Wortels van Oranje.*
