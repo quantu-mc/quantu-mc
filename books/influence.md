@@ -1,3 +1,5 @@
+[🔙 to People Skills](people.md)
+
 # Influence
 
 **Table of Contents:**
