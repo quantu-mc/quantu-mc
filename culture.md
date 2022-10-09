@@ -1,12 +1,16 @@
-## Places I've Lived
+## About the Netherlands
 
-**Australian Culture**
-- Notes
+- Geography and Living
+- History
+- Political System & Royal Family
+- Dutch Language
+- Upbringing & Education
+- Healthcare
+- Work & Income
+- Public Holidays
 
-**British Culture**
-- Notes
+*Based off the course material of [Naar Nederland](https://www.naarnederland.nl/en/coursematerial).*
 
-**Dutch Culture**
-- Notes
+## Weetjes van Oranje
 
-## Places I've Visited
+*Based off [Stuff Dutch People Like](https://stuffdutchpeoplelike.com/complete-list/) and De Wortels van Oranje.*
