@@ -30,7 +30,7 @@ The advocate has introverted, intuitive, feeling and judging personality traits 
 **Weaknesses:**
 - **Sensitive:** "I am not averse to feedback, but I get defensive if someone is challenging my most cherished values and beliefs."
 - **Reserved:** "I value honesty and authenticity, but am a private person. As a result, I avoid shallow and superficial friendships. Instead, I crave authentic, meaningful relationships." 
-- **Perfectionistic:** "I expect myself and my direct reports to be accurate, motivated and honest. I prefer not to micromanage them, but to empower them to think and act independently in order to create an atmosphere of mutual respect."
+- **Perfectionistic:** "I expect myself and my direct reports to be accurate and motivated. I prefer not to micromanage them, but rather to empower them to think and act independently in order to create an atmosphere of mutual respect."
 
 ## Stable (SC)
 
