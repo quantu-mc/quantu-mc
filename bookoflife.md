@@ -8,22 +8,22 @@
 
 ## Hierarchy of Needs
 ### Safety
+- [Mental Health](mentalhealth.md)
+- [Physical Health](physicalhealth.md)
 - [Financial Security](finance.md)
-- Mental Health
-- Physical Health
 
 ### Belonging
-- Language
-- Culture
+- [Language](language.md)
+- [Culture](culture.md)
 
 ### Esteem
-- Education
-- Leadership
-- Mastery
+- [Education](education.md)
+- [Leadership](leadership.md)
+- [Mastery](mastery.md)
 
 ### Self-Actualisation
-- Travel
-- Photography
+- [Travel](travel.md)
+- [Photography](photography.md)
 
 ### Garbage
 
