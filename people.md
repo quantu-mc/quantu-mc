@@ -1,3 +1,5 @@
+[🔙 to Directory](README.md)
+
 ## Emotional Intelligence
 
 - Emotional Intelligence by Daniel Goleman
