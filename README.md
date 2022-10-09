@@ -6,22 +6,20 @@ Recognising my [character strengths](bookoflife.md) and allowing them to guide m
 
 ## Directory
 
-### 1. Health & Safety
+### 1. Health & Security
 - 🧠 [Mental Health](mentalhealth.md)
 - 🏋‍♀️ [Physical Health](physicalhealth.md)
-- 💵 [Financial Safety](finance.md)
+- 💵 [Finance](finance.md)
 
-### 2. Belonging
+### 2. Belonging & Relationships
 - 🇳🇱 [Language](language.md)
 - 👑 [Culture](culture.md)
 
-### 3. Esteem
-- 🔬 [Technical Skills](technical.md)
-- 👥 [People Skills](people.md)
+### 3. Knowledge & Skills
+- 🔬 [Technical](technical.md)
+- 👥 [People](people.md)
 - 📈 [Career Path](career.md)
 
-### 4. Self-Actualisation
+### 4. Purpose & Enjoyment
 - 🛩 [Travel](travel.md)
 - 📸 [Photography](photography.md)
-
-*Based on Maslow's Hierarchy of Needs.*
