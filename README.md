@@ -12,8 +12,8 @@ Recognising my [character strengths](bookoflife.md) and allowing them to guide m
 - 💵 [Financial Safety](finance.md)
 
 ### 2. Belonging
-- ✒️ [Language](language.md)
-- ⚜️ [Culture](culture.md)
+- 🇳🇱 [Language](language.md)
+- 👑 [Culture](culture.md)
 
 ### 3. Esteem
 - 🔬 [Technical Skills](technical.md)
