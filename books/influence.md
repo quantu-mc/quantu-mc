@@ -1,6 +1,6 @@
 Although there are thousands of different tactics that compliance practitioners employ to produce yes, the majority fall within six basic categories.
 
-[test](influence#Reciprocation)
+[test](influence.md#Reciprocation)
 
 # Reciprocation
 *"We should try to repay, in kind, what another person has provided for us."*
