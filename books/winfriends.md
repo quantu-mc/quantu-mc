@@ -1,8 +1,6 @@
-[🔙 to People Skills](people.md)
+[🔙 to People Skills](quantu-mc/people.md)
 
 # How to Win Friends and Influence People
-
-It's naive to think you will always get a favourable reaction from other people when you use these approaches. But, if you increase your successes by even a mere 10 percent, you have become 10 percent more effective as a leader than you were before. And that is _your_ benefit.
 
 **Table of Contents:**  
 I. [Three Fundamental Techniques in Dealing with People](I-Three-Fundamental-Techniques-in-Dealing-with-People)  
