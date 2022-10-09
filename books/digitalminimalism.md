@@ -1,10 +1,21 @@
-**Introduction**
+[🔙 to Mental Health](https://github.com/quantu-mc/quantu-mc/blob/main/mentalhealth.md)
+
+# Digital Minimalism
 
 New technologies seem to be draining meaning and satisfaction from our lives. Few want to spend so much time online, but these technologies have a way of cultivating behavioural addictions. They also tend to have an overall negative impact on psychological well-being, by generating feelings of inadequacy, mental exhaustion, and, more insidiously, emotionally charged extremes.
 
 Modest hacks and tips are not sufficient to curb technology's addictive design and cultural strength. What is required instead is a full-fledged philosophy of technology use, such as digital minimalism.
 
-**Chapter 1 -  A Lopsided Arms Race**
+**Table of Contents:**
+1. [A Lopsided Arms Race](digitalminimalism.md#1-A-Lopsided-Arms-Race)
+2. [Digital Minimalism](digitalminimalism.md#2-Digital-Minimalism)
+3. [The Digital Declutter](digitalminimalism.md#3-The-Digital-Declutter)
+4. [Spend Time Alone](digitalminimalism.md#4-Spend-Time-Alone)
+5. [Dont Click "Like"](digitalminimalism.md#5-Dont-Click-Like)
+6. [Reclaim Leisure](digitalminimalism.md#6-Reclaim-Leisure)
+7. [Join the Attention Resistance](digitalminimalism.md#7-Join-the-Attention-Resistance)
+
+## 1. A Lopsided Arms Race
 
 One of the major selling points of the original iPhone was that it integrated the iPod with a cellphone, preventing someone from having to carry around two seperate devices. The way the iPhone has changed how we live since was rapid, unexpected, and unplanned.
 
@@ -20,7 +31,7 @@ There are two main forces behind this:
 
 - The drive for social approval; or the craving for validation from the 'tribe' and the fear of being rejected or missing out.
 
-**Chapter 2 - Digital Minimalism**
+## 2. Digital Minimalism
 
 Small changes are not enough to 
 solve our big issues with new technologies. We require a new philosophy altogether.
@@ -37,7 +48,7 @@ Digital minimalism relies on three principles:
     
 3. Intentionality is satisfying. This is derived from mindful and meaningful use of new technologies. The Amish, famous for their reluctance to adopt new technologies, in some cases actually do. They start with the things they value most, then work backward to ask if that new technology performs more good than harm with respect to those values.
 
-**Chapter 3 - The Digital Declutter**
+## 3. The Digital Declutter
 
 The digital declutter is not a gradual change, it is a rapid transformation in a short period of time, executed with enough conviction that the results are likely to stick.
 
@@ -49,7 +60,7 @@ The process is as follows:
   
 - At the end of the break, reintroduce optional technologies in to your life. For each one that is reintroduced, determine what value it serves, as well as the operating procedures to best maximise that value.
 
-**Chapter 4 - Spend Time Alone**
+## 4. Spend Time Alone
 
 “All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” wrote Blaise Pascal.
 
@@ -65,7 +76,7 @@ To practice solitude:
   
 - Write letters to yourself. Writing a letter to yourself is an excellent mechanism for generating solitude, but also provides a conceptual scaffolding on which to sort and organize your thinking. This can be a special notebook or scraps of paper, and do not need to be added to on a regular schedule, but only when the need arises.
 
-**Chapter 5 - Dont Click "Like"**
+## 5. Don't Click "Like"
 
 Our brains evolved to crave rich social interaction, and serious issues are caused when we displace this interaction with highly appealing, but much less substantial, electronic pings. The more time you spend "connecting" on social media services, the more isolated you're likely to become, since you devote less time to offline communication.
 
@@ -81,7 +92,7 @@ To reclaim conversation:
    
 - Hold conversation office hours. Put aside set times on set days during which you're available for conversation, either via phone or in person. When someone instigates a low-quality connected, promote to them your high-quality conversation time instead.
 
-**Chapter 6 - Reclaim Leisure**
+## 6. Reclaim Leisure
 
 "A life well lived requires activities that serve no other purpose than the satisfaction that the activity itself generates."
 
@@ -105,7 +116,7 @@ To upgrade your leisure life:
  
 - Follow leisure plans. Finding opportunities for leisure are rarer when you’re not planning ahead. Strategise your free time with quarterly plans that outline objectives and the required habits, and weekly plans that detail how you will execute those habits that particular week.
 
-**Chapter 7 - Join the Attention Resistance**
+## 7. Join the Attention Resistance
 
 Facebook, Google, and other services utilise the attention economy; the business sector that makes money gathering consumers' attention, then repackaging and selling it to advertisers. The best way to use these services is in a manner that optimises the value you receive. This isn't just a commonsense adjustment to your digital habits, but a bold act of resistance.
 
