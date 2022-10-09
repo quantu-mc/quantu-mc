@@ -14,9 +14,9 @@
 ## 🃏 Humour
 "I recognise what is amusing, look on the lighter side, and like to make people laugh, even in difficult and stressful times. This is the least essential of my character strengths, but it reminds me that not everything enjoyable in life needs to serve a greater purpose."
 
-# Personality Type
+# Personality Types
 
-## Advocate (INFJ)
+## 🧙 Advocate (INFJ)
 
 The advocate has introverted, intuitive, feeling and judging personality traits. It is the rarest MBTI personality type.
 
@@ -32,7 +32,7 @@ The advocate has introverted, intuitive, feeling and judging personality traits.
 - **Reserved:** "I value honesty and authenticity, but am a private person. As a result, I avoid shallow and superficial friendships. Instead, I crave authentic, meaningful relationships." 
 - **Perfectionistic:** "My personality is defined by idealism. I often find it difficult to appreciate my job, living situation, and relationships as I am continually fixating on imperfections and seeking improvements."
 
-## The Analytical Peacekeeper (SC)
+## 🕊️ Analytical Peacekeeper (SC)
 
 - "I am motivated by opportunities to gain knowledge, show my expertise, and produce quality work. I am also motivated by cooperation, opportunities to help, and sincere appreciation."
 - "I value quality, diligence, loyalty and inclusivity."
