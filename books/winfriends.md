@@ -1,14 +1,22 @@
+[🔙 to People Skills](people.md)
+
 # How to Win Friends and Influence People
 
 It's naive to think you will always get a favourable reaction from other people when you use these approaches. But, if you increase your successes by even a mere 10 percent, you have become 10 percent more effective as a leader than you were before. And that is _your_ benefit.
 
-## Part I - Three Fundamental Techniques in Dealing with People
+**Table of Contents:**  
+I. [Three Fundamental Techniques in Dealing with People](I-Three-Fundamental-Techniques-in-Dealing-with-People)  
+II. [Six Ways to Make People Like You](II-Six-Ways-to-Make-People-Like-You)  
+III. [Twelve Ways to Win People to Your Way of Thinking](III-Twelve-Ways-to-Win-People-to-Your-Way-of-Thinking)  
+IV. [Nine Ways to Change People Without Arousing Resentment](IV-Nine-Ways-to-Change-People-Without-Arousing-Resentment)  
+
+## I. Three Fundamental Techniques in Dealing with People
 
 1. **Don't criticise, condemn or complain.** It puts a person on the defensive and breeds resentment. "Any fool can criticise, condemn and complain - and most fools do. But it takes character and self-control to be understanding and forgiving. "A great man shows his greatness," said Carlyle, "by the way he treats little men."
 2. **Give honest and sincere appreciation.** It generates enthusiasm, from a desire to feel important. The difference between appreciation and flattery is simple, the former comes from the heart out, the latter from the teeth out. Emerson said: "Every man I meet is my superior in some way. In that, I learn of him."
 3. **Arouse in the other person an eager want.** Why talk about what you want? The rest of us are just like you: we are interested in what we want. The only way on earth to influence other people is to talk about what they want and show them how to get it. "If there is any one secret of success," said Henry Ford, "it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own."
 
-## Part II - Six Ways to Make People Like You
+## II. Six Ways to Make People Like You
 
 1. **Be genuinely interested in other people.** You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
 2. **Smile.** A smile says "I like you. You make me happy." Everybody in the world is seeking happiness, and it doesn't depend on outward conditions, but on inner conditions. "There is nothing either good or bad," said Shakespeare, "but thinking makes it so."
@@ -17,7 +25,7 @@ It's naive to think you will always get a favourable reaction from other people 
 5. **Talk in terms of the other person's interests.** The royal road to a person's heart is to talk about the things he or she treasures most.
 6. **Make the other person feel important.** The most important rule in the world is to do unto others as you would have others do unto you. *You* would want approval of those with whom you come in contact. *You* would want recognition of your true worth. *You* would want a feeling that you are important in your own little world. "Talk to people about themselves," said Disraeli, "and they will listen for hours."
 
-## Part III - Twelve Ways to Win People to Your Way of Thinking
+## III. Twelve Ways to Win People to Your Way of Thinking
 
 1. **There is only one way to get the best of an argument - and that is to avoid it.** You can never win an argument, because if you lose it, you lose it, and if you win it, you still lose it. "A man convinced against his will is of the same opinion still."
 2. **Never say "you're wrong."** You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words - and if you tell them they are wrong, do you make them want to agree with you? Never! For you have struck a direct blow to their intelligence, judgement, pride and self respect.
@@ -32,7 +40,7 @@ It's naive to think you will always get a favourable reaction from other people 
 11. **Dramatise your ideas.** Merely stating a truth is not enough. If you want attention, the truth has to be made vivid, interesting, dramatic.
 12. **Throw down a challenge.** "The way to get things done," said Schwab, "is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel."
 
-## Part IV - Nine Ways to Change People Without Arousing Resentment
+## IV. Nine Ways to Change People Without Arousing Resentment
 1. **Begin with praise and honest appreciation.** It is always easier to listen to unpleasant things after we have heard some praise of our good points. It is like the dentist who begins their work with Novocain. The patient still gets a drilling, but the Novocain is pain-killing.
 2. **Call attention to others' mistakes indirectly.** Many people begin their criticism with sincere praise followed by the word "but" and ending with a critical statement. Change the word to "and" to continue the encouragement.
 3. **Talk about your own mistakes first.** It isn't nearly so difficult to listen to a recital of your faults if the person criticising begins by humbly admitting that they, too, are far from impeccable.
