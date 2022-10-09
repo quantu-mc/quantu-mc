@@ -1,4 +1,4 @@
-[🔙 to Directory](directory.md)
+[🔙 to Directory](README.md)
 
 # Character Strengths
 
