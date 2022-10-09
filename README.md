@@ -2,7 +2,7 @@
 
 ## About
 
-Recognising my [character strengths](bookoflife.md##character-strengths) and [personality types](bookoflife.md#personality-type) and allowing them to guide my life results in a sense of happiness and meaning.
+Recognising my [character strengths](bookoflife.md#character-strengths) and [personality types](bookoflife.md#personality-types) and allowing them to guide my life results in a sense of happiness and meaning.
 
 ## Directory
 
