@@ -6,4 +6,4 @@
 - 🍺 [**Brewer's Reference**](https://github.com/quantu-mc/brewers-reference): technical knowledge I have learnt during my beer career.
 - 🐍 [**Python Learning**](https://github.com/quantu-mc/python-learning): code snippets and tutorials for python learning.
 
-*All my repositories are private.*
+*All my repositories are private, but I keep some pages public on this main repository.*
