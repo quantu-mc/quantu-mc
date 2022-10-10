@@ -78,7 +78,7 @@
 
 ## 8. Invest in Positive Relationships
 
-*Elevate your connections with those in your network."
+*Elevate your connections with those in your network.*
 
 - Adopt a mindset of care and trust, assuming best intentions and giving the benefit of the doubt.
 - Be a mentor and a mentee. For every person you ask as a mentor, become one yourself.
