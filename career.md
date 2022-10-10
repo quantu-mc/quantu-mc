@@ -1,6 +1,5 @@
-## Career Goals
+## Career Guidance
 
-**Books:**
-- Your Professional Growth by Harvard Business Review
-- Crafting Your Purpose by Harvard Business Review
-- [Mastery](mastery.md) by Robert Greene
+- 📙 Your Professional Growth by Harvard Business Review
+- 📙 [Crafting Your Purpose](books/craftingyourpurpose.md) by Harvard Business Review
+- 📙 [Mastery](books/mastery.md) by Robert Greene
