@@ -1,26 +1,5 @@
-# A Happy & Meaningful Life
-
-## About
-
-Allowing my [character strengths](bookoflife.md#character-strengths) and [personality types](bookoflife.md#personality-types) to guide my life results in a sense of happiness and meaning.
-
-## Directory
-
-### 1. Health & Security
-- 🧠 [Mental Health](mentalhealth.md)
-- 🏋‍♀️ [Physical Health](physicalhealth.md)
-- 💵 [Finance](finance.md)
-
-### 2. Belonging & Relationships
-- 🇳🇱 [Language](language.md)
-- 👑 [Culture](culture.md)
-
-### 3. Knowledge & Skills
-- 🔬 [Technical](technical.md)
-- 👥 [People](people.md)
-- 📈 [Career Path](career.md)
-
-### 4. Purpose & Enjoyment
-- 🛩 [Travel](travel.md)
-- 📸 [Photography](photography.md)
-- 🎲 [Gaming](gaming.md)
+- 👋 Hi, I'm quantu-mc! I'm a quantum physicist turned beer brewer.
+- 👩‍💻 I use GitHub for:
+    - 📚 [**Book of Life**](https://github.com/quantu-mc/book-of-life): personal notes on topics that give my life happiness and meaning.
+    - 🍺 [**Brewer's Reference**](https://github.com/quantu-mc/brewers-reference): technical knowledge I have learnt during my beer career.
+    - 🏡 [**List of Stuff**](https://github.com/quantu-mc/list-of-stuff): a room by room list of everything I own.
