@@ -1,3 +1,5 @@
+[🔙 to Physical Health](physicalhealth.md)
+
 # First Aid
 
 If a person is concious, consent must be given before helping. If a person is unconscious, consent is implied.
