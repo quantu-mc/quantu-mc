@@ -23,3 +23,4 @@ Allowing my [character strengths](bookoflife.md#character-strengths) and [person
 ### 4. Purpose & Enjoyment
 - 🛩 [Travel](travel.md)
 - 📸 [Photography](photography.md)
+- 🎲 [Gaming](gaming.md)
