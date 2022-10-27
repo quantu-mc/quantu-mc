@@ -2,7 +2,6 @@
 
 ## Repositories
 - 📚 [**Book of Life**](https://github.com/quantu-mc/book-of-life): personal notes on topics that give my life happiness and meaning.
-- 🏡 [**List of Stuff**](https://github.com/quantu-mc/list-of-stuff): a room by room list of everything I own.
 - 🍺 [**Brewer's Reference**](https://github.com/quantu-mc/brewers-reference): technical knowledge I have learnt during my beer career.
 - 🐍 [**Python Learning**](https://github.com/quantu-mc/python-learning): code snippets and tutorials for python learning.
 
